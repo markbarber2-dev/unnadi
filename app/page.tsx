@@ -598,11 +598,11 @@ export default function Home() {
         </div>
       </footer>
 
-      {/* Floating Action Buttons for Mobile */}
+      {/* Floating Action Buttons for Mobile - Only visible on mobile */}
       <div className="fixed bottom-6 right-6 flex flex-col space-y-3 md:hidden z-50">
         <a 
           href={`tel:${phoneNumber}`}
-          className="bg-teal-600 text-white rounded-full p-3 shadow-lg hover:bg-teal-700 transition-colors transform hover:scale-110"
+          className="bg-teal-600 text-white rounded-full p-4 shadow-lg hover:bg-teal-700 transition-all transform hover:scale-110 flex items-center justify-center"
           aria-label="Call us"
         >
           <FaPhone className="h-6 w-6" />
@@ -611,7 +611,7 @@ export default function Home() {
           href={`https://wa.me/${whatsappNumber}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-teal-500 text-white rounded-full p-3 shadow-lg hover:bg-teal-600 transition-colors transform hover:scale-110"
+          className="bg-green-500 text-white rounded-full p-4 shadow-lg hover:bg-green-600 transition-all transform hover:scale-110 flex items-center justify-center"
           aria-label="Chat on WhatsApp"
         >
           <FaWhatsapp className="h-6 w-6" />
