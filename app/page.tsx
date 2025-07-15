@@ -567,19 +567,19 @@ export default function Home() {
               </div>
             </div>
             <div className="flex space-x-6">
-              <a href="#" className="text-gray-300 hover:text-teal-400 transition-colors">
+              <a href="https://www.instagram.com/unnadhi.by.laishna?igsh=MWZmajUyeml3Ym54YQ==" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-teal-400 transition-colors">
                 <span className="sr-only">Facebook</span>
                 <FaFacebook className="h-6 w-6" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-teal-400 transition-colors">
+              <a href="https://www.instagram.com/unnadhi.by.laishna?igsh=MWZmajUyeml3Ym54YQ==" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-teal-400 transition-colors">
                 <span className="sr-only">Twitter</span>
                 <FaTwitter className="h-6 w-6" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-teal-400 transition-colors">
+              <a href="https://www.instagram.com/unnadhi.by.laishna?igsh=MWZmajUyeml3Ym54YQ==" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-teal-400 transition-colors">
                 <span className="sr-only">Instagram</span>
                 <FaInstagram className="h-6 w-6" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-teal-400 transition-colors">
+              <a href="https://www.instagram.com/unnadhi.by.laishna?igsh=MWZmajUyeml3Ym54YQ==" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-teal-400 transition-colors">
                 <span className="sr-only">LinkedIn</span>
                 <FaLinkedin className="h-6 w-6" />
               </a>
