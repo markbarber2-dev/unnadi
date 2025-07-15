@@ -554,10 +554,10 @@ export default function Home() {
             <div className="mb-6 md:mb-0 flex items-center">
               <div className="mr-4">
                 <Image 
-                  src="/Unnathi.png" 
+                  src="/Unnathi (1) (1).png" 
                   alt="Unnadhi Logo" 
-                  width={60} 
-                  height={60} 
+                  width={80} 
+                  height={80} 
                   className="rounded-lg"
                 />
               </div>
