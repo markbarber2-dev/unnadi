@@ -60,7 +60,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2 sm:space-x-8">
-              <div className="relative w-16 h-16 sm:w-20 sm:h-20">
+              <div className="relative w-20 h-20 sm:w-24 sm:h-24">
                 <Image 
                   src="/Unnathi.png" 
                   alt="Unnadhi Logo" 
