@@ -8,8 +8,8 @@ import 'react-multi-carousel/lib/styles.css';
 import { FaWhatsapp, FaPhone, FaPhoneAlt, FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaUniversity, FaFileAlt, FaGraduationCap, FaGlobeAmericas, FaMoneyBillWave, FaPlane, FaUserGraduate, FaGlobe, FaCheckCircle } from 'react-icons/fa';
 
 export default function Home() {
-  const phoneNumber = '+1234567890'; // Placeholder number
-  const whatsappNumber = '1234567890'; // Placeholder WhatsApp number
+  const phoneNumber = '+91 6238-891819'; // Updated contact number
+  const whatsappNumber = '916238891819'; // Updated WhatsApp number (without + or spaces)
   
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -554,7 +554,7 @@ export default function Home() {
             <div className="mb-6 md:mb-0 flex items-center">
               <div className="mr-4">
                 <Image 
-                  src="/Unnathi (1) (1).png" 
+                  src="/unn.png" 
                   alt="Unnadhi Logo" 
                   width={80} 
                   height={80} 
